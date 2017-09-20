@@ -1,0 +1,19 @@
+title = "Sonic Boom Shattered Crystal"
+description = "Sonic Boom: Shattered Crystal es una aventura independiente que comparte personajes clave, eventos y sabiduría del universo de Sonic Boom con entornos y personajes exclusivos, así como un énfasis en plataformas y puzzles. Además de Sonic, Tails y Knuckles, los jugadores también podrán asumir el papel de Sticks, el nuevo miembro del equipo.\nEditor: SEGA\nDesarrolladora: Sanzura Games"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000127500"
+region = "Estados Unidos"
+release_date = "2014-11-11"
+
+[[testcases]]
+title = "0004000000127500"
+compatibility = "0"
+date = "2017-09-20"
+version = "HEAD-b4fbb1c"
+cpu = ""
+gpu = ""
+os = "Wondows 10 14393"
+author = "Estecraft789"
